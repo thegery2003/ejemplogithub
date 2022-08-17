@@ -6,6 +6,6 @@ public class Main {
         System.out.println("poner nombre completo y correo institusional ");
 
 
-        
+        System.out.println("hola prueva 2");
      }
 }
